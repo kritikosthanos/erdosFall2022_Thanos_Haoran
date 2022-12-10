@@ -8,6 +8,7 @@ The data set can be found [here](https://www.kaggle.com/competitions/instacart-m
 
 ## Methodology
 
+- Explotary analysis
 - Principal component analysis (PCA) + K-means
 - Extreme gradient boosting (XGBoost) + GridSearchCV
 
